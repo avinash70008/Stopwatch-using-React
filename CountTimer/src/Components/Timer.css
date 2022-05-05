@@ -1,0 +1,32 @@
+.block{
+    height: 400px;
+    width: 500px;
+    border: 1px solid greenyellow;
+    margin-left: 30%;
+    margin-top: 90px;
+    background-color: hotpink;
+}
+.main{
+    height: 100px;
+    width: 400px;
+    border: 1px solid grey;
+margin-left: 40px;
+margin-top: 40px;
+text-align: center;
+border-radius: 20px;
+background-color: aqua;
+font-size: x-large;
+
+
+
+}
+.Timer{
+    margin-top: 150px;
+    
+  
+
+}
+.reset{
+    margin-right: 20px;
+}
+
